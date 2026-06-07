@@ -2,15 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Assets",
-    "\\Assets\\Sounds",
     "\\Source",
-    "\\Source\\Interfaces",
-    "\\Source\\Logic",
-    "\\Source\\Models",
-    "\\Source\\Ranking",
     "\\Source\\UI",
     "\\Source\\UI\\Components"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Source\\UI\\Components\\.gitkeep",
   "PreviewInSolutionExplorer": false
 }
