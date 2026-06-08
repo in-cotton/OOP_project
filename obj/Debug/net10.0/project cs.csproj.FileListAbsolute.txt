@@ -1,0 +1,14 @@
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/project cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/project cs.AssemblyInfoInputs.cache
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/project cs.AssemblyInfo.cs
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/project cs.csproj.CoreCompileInputs.cache
+/Users/changmoochoi/Desktop/project cs/bin/Debug/net10.0/project cs
+/Users/changmoochoi/Desktop/project cs/bin/Debug/net10.0/project cs.deps.json
+/Users/changmoochoi/Desktop/project cs/bin/Debug/net10.0/project cs.runtimeconfig.json
+/Users/changmoochoi/Desktop/project cs/bin/Debug/net10.0/project cs.dll
+/Users/changmoochoi/Desktop/project cs/bin/Debug/net10.0/project cs.pdb
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/project cs.dll
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/refint/project cs.dll
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/project cs.pdb
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/project cs.genruntimeconfig.cache
+/Users/changmoochoi/Desktop/project cs/obj/Debug/net10.0/ref/project cs.dll
