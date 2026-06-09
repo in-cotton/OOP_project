@@ -1,1 +1,13 @@
 .DS_Store/
+bin/
+obj/
+*.user
+*.nuget.dgspec.json
+*.nuget.g.props
+*.nuget.g.targets
+project.assets.json
+project.nuget.cache
+.vs/
+*.suo
+*.dtbcache.v2
+*.futdcache.v2
