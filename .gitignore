@@ -1,1 +1,8 @@
-.DS_Store/
+# macOS system files
+.DS_Store
+Icon?
+Icon[r]
+
+# vs system files
+.vs/
+*.vsidx
