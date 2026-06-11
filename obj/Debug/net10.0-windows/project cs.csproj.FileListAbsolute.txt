@@ -1,0 +1,22 @@
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project_cs.Source.UI.GameForm.resources
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.csproj.GenerateResource.cache
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.AssemblyInfoInputs.cache
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.AssemblyInfo.cs
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.csproj.CoreCompileInputs.cache
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.sourcelink.json
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project_cs.Source.UI.MainMenuForm.resources
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\bin\Debug\net10.0-windows\project cs.exe
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\bin\Debug\net10.0-windows\project cs.deps.json
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\bin\Debug\net10.0-windows\project cs.runtimeconfig.json
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\bin\Debug\net10.0-windows\project cs.dll
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\bin\Debug\net10.0-windows\project cs.pdb
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.dll
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\refint\project cs.dll
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.pdb
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project cs.genruntimeconfig.cache
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\ref\project cs.dll
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project_cs.Source.UI.Components.ComboControl.resources
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project_cs.Source.UI.Components.TimeControl.resources
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project_cs.Source.UI.Components.ItemButtonControl.resources
+C:\Users\parkj\source\repos\teample\pjw4658\OOP_project\obj\Debug\net10.0-windows\project_cs.Source.UI.Components.RankingBoardControl.resources
